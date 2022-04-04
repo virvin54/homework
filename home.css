@@ -1,0 +1,16 @@
+body {
+    color: aqua;
+    background-color: black;
+}
+a {
+    text-decoration: none;
+    color: aqua;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.naming {
+    text-align: center;
+}
